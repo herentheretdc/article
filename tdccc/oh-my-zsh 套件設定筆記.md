@@ -1,4 +1,4 @@
-# Linux shell 設定筆記
+# oh-my-zsh 套件設定筆記
 
 # 序
 
